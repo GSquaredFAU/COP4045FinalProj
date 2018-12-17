@@ -1,0 +1,8 @@
+---
+applications:
+  - name: SC4045GApp
+    memory: 256MB
+    disk_quota: 256MB
+    command: python tester.py
+    domain: mybluemix.net
+    host: SC4045GApp
